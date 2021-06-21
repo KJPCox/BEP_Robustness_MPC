@@ -1,4 +1,4 @@
-# BEP_Robustness_MPC
+# Files BEP Robustness MPC
 
 2 files are located in this repository.
 MPC_experiments.zip
