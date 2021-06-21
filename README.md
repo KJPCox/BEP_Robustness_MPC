@@ -1,8 +1,8 @@
 # Files BEP Robustness MPC
 
 2 files are located in this repository.
-MPC_experiments.zip
-PNLSS_estimation.zip
+
+MPC_experiments.zip and PNLSS_estimation.zip
 
 ## MPC_experiments (derived from Master Thesis M.M.P. Floren https://research.tue.nl/en/studentTheses/a-robust-data-driven-model-predictive-control-approach-towards-fe)
 
