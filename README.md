@@ -16,7 +16,7 @@ SingleSidedSpectrum2TimeDomainSignal.m is the function that translates the outpu
 to time domain signals. 
 This is used to calculate the rms values. 
 
-## PNLSS_estimation (derived from Schouckens PNLSS software http://homepages.vub.ac.be/~jschouk/#)
+## PNLSS_estimation (derived from Prof. Schoukens PNLSS software http://homepages.vub.ac.be/~jschouk/#)
 
 This folder contains all files to estimate a new PNLSS model. This is a work in progress since
 it has not been achieved to estimate the PNLSS model correctly.
